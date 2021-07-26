@@ -39,19 +39,27 @@ Below are Trello screenshots by day:
 ![ERD](./docs/diagrams/ERD-machi.png )
 
 > # R8 Provides evidence of user testing
+https://docs.google.com/spreadsheets/d/1PmX4Vu1vaOIQs0y6TX4B1qmDOSxD_XiQm3K7lt5QUDo/edit?usp=sharing
+
 # In the development environment
 
 # In the production environment
 
+
 > # R9	Utilises a formal testing framework
 
-- Front-end: please run `yarn test` to see tests result
-    - Cypress
-    - Jest
+All tests are successful
+- Front-end: 
+    - Cypress: the baseUrl is on port 8080
+    ![cypress test](./docs/tests/cypress.png)
+
+    - Jest: please run `yarn test` to see tests result
+    ![cypress test](./docs/tests/jest.png)
+
 - Back-end:
     - rspec: please run `rspec` to see the tests result.
-
-
+    ![cypress test](./docs/tests/rspec-1.png)
+    ![cypress test](./docs/tests/rspec-2.png)
 
 > # R12	The contents of your README.md as submitted for Full Stack App - Part A
 
