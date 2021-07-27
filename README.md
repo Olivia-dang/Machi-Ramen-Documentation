@@ -43,6 +43,16 @@ Below are Trello screenshots by day:
 Link:
 https://docs.google.com/spreadsheets/d/1PmX4Vu1vaOIQs0y6TX4B1qmDOSxD_XiQm3K7lt5QUDo/edit?usp=sharing
 
+<strong>Local Host testing Link</strong>
+
+https://drive.google.com/file/d/13bj0iGzmgdayhjqpyLAwoCLkIg--XxP8/view?usp=sharing
+
+<strong>Netlify Video Testing Link </strong>
+
+https://drive.google.com/file/d/1qygmXre7R95yYe8EmpwzCy-yLtGHiuZT/view?usp=sharing
+
+
+
 # In the development environment
 
 ![user-test](./docs/tests/excel-dev.png )
