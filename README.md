@@ -1,9 +1,9 @@
-# R10	A link (URL) to your deployed website
+> # R10	A link (URL) to your deployed website
 https://machi-ramen.netlify.app/
 
 We have successfully built the MVP version of Machi Ramen website, with a "nice-to-have" extension: image uploading to AWS S3 and display images for menu items. As a website for branding purpose of a Japanese Restaurant, we have covered initial demands of the client (restaurant owner).
 
-# R11	A link to your GitHub repository (repo)
+> # R11	A link to your GitHub repository (repo)
 - Front-end: https://github.com/henrydrayton/Machi-Ramen-React
 - Back-end: https://github.com/Olivia-dang/api-machi-ramen
 
@@ -39,8 +39,8 @@ Below are Trello screenshots by day:
 ![ERD](./docs/diagrams/ERD-machi.png )
 
 > # R8 Provides evidence of user testing
-![ERD](./docs/tests/excel.png )
 
+Link:
 https://docs.google.com/spreadsheets/d/1PmX4Vu1vaOIQs0y6TX4B1qmDOSxD_XiQm3K7lt5QUDo/edit?usp=sharing
 
 <strong>Local Host testing Link</strong>
@@ -55,8 +55,10 @@ https://drive.google.com/file/d/1qygmXre7R95yYe8EmpwzCy-yLtGHiuZT/view?usp=shari
 
 # In the development environment
 
+![user-test](./docs/tests/excel-dev.png )
 # In the production environment
 
+![user-test](./docs/tests/excel-pro.png )
 
 > # R9	Utilises a formal testing framework
 
