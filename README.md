@@ -39,6 +39,8 @@ Below are Trello screenshots by day:
 ![ERD](./docs/diagrams/ERD-machi.png )
 
 > # R8 Provides evidence of user testing
+![ERD](./docs/tests/excel.png )
+
 https://docs.google.com/spreadsheets/d/1PmX4Vu1vaOIQs0y6TX4B1qmDOSxD_XiQm3K7lt5QUDo/edit?usp=sharing
 
 # In the development environment
