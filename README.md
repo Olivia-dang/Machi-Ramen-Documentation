@@ -1,4 +1,8 @@
-> # R10	A link (URL) to your deployed website
+> # Link to version 2 (static website)
+I have rebuilt the front-end with NextJS (based on a new design)
+https://machiramen.netlify.app/
+
+> # Link to version 1 (full-stack)
 https://machi-ramen.netlify.app/
 
 We have successfully built the MVP version of Machi Ramen website, with a "nice-to-have" extension: image uploading to AWS S3 and display images for menu items. As a website for branding purpose of a Japanese Restaurant, we have covered initial demands of the client (restaurant owner).
